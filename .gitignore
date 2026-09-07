@@ -35,6 +35,7 @@ env/
 *.tmp
 
 # Project specific
+/projects/
 *.log
 .env
 .env.local

@@ -10,6 +10,54 @@ The toolkit supports multiple AI coding assistants, allowing teams to use their 
 
 ---
 
+## Flutter and Dart Code Generation
+
+When a task touches Dart or Flutter, apply the project skill at
+`<current-project>/.agents/skills/flutter-dart/SKILL.md` in addition to the repository
+rules. Treat
+Flutter conventions as mandatory: preserve sound null safety, inspect the SDK and
+dependencies in `pubspec.yaml`, follow the existing architecture and state-management
+choice, keep widget builds pure and cheap, dispose owned resources, guard `mounted`
+after asynchronous gaps, and add the appropriate unit/widget/integration tests.
+For a scaffold-only request, use
+`<current-project>/.agents/skills/create-todo/SKILL.md` (`$create-todo`; the UI may expose
+the same skill as `/create-todo`) and do not implement runtime behavior.
+Run formatting and static analysis for changed Dart code and report validation results.
+Do not introduce packages or platform-specific code without checking the existing
+project setup first.
+
+---
+
+## Project Workspace and Spec Kit Scope
+
+All new application or feature projects must be created under:
+
+`/Users/davidyolkin/flutterprojects/init_flutter/projects`
+
+When the user asks to create a new project without specifying another location, use
+that directory by default. Each project is self-contained and must own its Spec Kit
+state and Codex skills:
+
+- `<project>/.specify/` — project specifications, templates, workflows, and feature state;
+- `<project>/.agents/skills/` — Codex/Spec Kit skills used for that project.
+
+Resolve `<current-project>` as the nearest project directory containing `pubspec.yaml`
+or an explicit project marker. When working on an application, search for `AGENTS.md`,
+`.specify/`, and `.agents/skills/` starting there. Do not use the root repository's
+`.specify/` or `.agents/` as the active project state. The root copies are toolkit
+development resources only.
+
+For a new or existing project, run:
+
+```bash
+scripts/init-project.sh <project-name>
+```
+
+This installs Codex's Spec Kit integration and copies the project-specific Flutter/Dart
+and `create-todo` skills into the project's own `.agents/skills/` directory.
+
+---
+
 ## Quickstart — Add a New Integration in 5 Steps
 
 If you are new to the codebase and want to add support for a new AI agent, here is the shortest path from zero to a working integration:

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create TODO Scaffold"
+  short_description: "Generate compile-ready Flutter/Dart TODO scaffolds"
+  default_prompt: "Use $create-todo to scaffold the requested Flutter/Dart architecture with classes, interfaces, fields, method signatures, and TODO markers without implementing behavior."

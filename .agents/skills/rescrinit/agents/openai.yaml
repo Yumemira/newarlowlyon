@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rescrinit"
+  short_description: "Full visual, asset, copy, and key migration"
+  default_prompt: "Use $rescrinit to fully rebrand this Flutter app, including assets, visual tokens, copy, and translation-key renaming."
