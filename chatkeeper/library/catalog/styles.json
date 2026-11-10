@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Paper atelier",
+    "treatment": "Кремовая бумага, чернильные линии, поля и небольшие штампы",
+    "typography": "редакционный serif + читаемый sans",
+    "use": "дневники творчества, коллекции",
+    "avoid": "Не имитировать мелкий рукописный основной текст",
+    "id": "S001",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Blueprint workshop",
+    "treatment": "Тёмный чертёж, координатная сетка, размерные линии, плоские инструменты",
+    "typography": "геометрический sans + mono для чисел",
+    "use": "пространственные утилиты",
+    "avoid": "Сетка не должна конкурировать с объектом",
+    "id": "S002",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Clay playground",
+    "treatment": "Матовые объёмные формы, мягкие тени, крупные жестовые объекты",
+    "typography": "округлый sans",
+    "use": "игровое обучение, сборка",
+    "avoid": "Не делать весь экран тяжёлой 3D-сценой",
+    "id": "S003",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Botanical fieldbook",
+    "treatment": "Светлая фактура, ботанические зарисовки, метки образцов",
+    "typography": "спокойный serif + sans",
+    "use": "природа, наблюдения",
+    "avoid": "Фактура только вне плотного текста",
+    "id": "S004",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Night observatory",
+    "treatment": "Глубокий синий, точечные акценты, концентрические шкалы",
+    "typography": "узкий display + sans",
+    "use": "звук, небо, измерения",
+    "avoid": "Слабый серый текст на чёрном запрещён",
+    "id": "S005",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Sport telemetry",
+    "treatment": "Контрастные плоскости, крупные цифры, направляющие полосы",
+    "typography": "табличные цифры + энергичный sans",
+    "use": "движение, тренировки, ритм",
+    "avoid": "Не выдавать декоративную телеметрию за измерение",
+    "id": "S006",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Ceramic studio",
+    "treatment": "Тёплый белый, кобальтовые пятна, плиточные формы",
+    "typography": "выразительный serif + neutral sans",
+    "use": "дом, рецепты, ремесло",
+    "avoid": "Орнамент не фон каждой карточки",
+    "id": "S007",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Neon arcade",
+    "treatment": "Тёмный фон, ограниченные яркие акценты, пиксельные детали",
+    "typography": "display для заголовков + plain sans",
+    "use": "аркады, ритм",
+    "avoid": "Без мерцания и светящейся простыни текста",
+    "id": "S008",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Museum labels",
+    "treatment": "Большой визуальный объект, подпись, номер экспоната, тонкие разделители",
+    "typography": "контрастный serif + sans",
+    "use": "коллекции, история предметов",
+    "avoid": "Не превращать прикладную задачу в длинную экспозицию",
+    "id": "S009",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Transit atlas",
+    "treatment": "Маршрутные линии, узлы, компактные указатели, легенда",
+    "typography": "чёткий sans",
+    "use": "связанные этапы и маршруты",
+    "avoid": "Всегда сохранять ориентир и прямой переход",
+    "id": "S010",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Textile patchwork",
+    "treatment": "Тканевые плоскости, швы как разделители, крупные цветовые блоки",
+    "typography": "мягкий sans",
+    "use": "гардероб, рукоделие",
+    "avoid": "Не использовать текстуру под мелкими подписями",
+    "id": "S011",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Monochrome editorial",
+    "treatment": "Чёрно-белая сетка, сильный масштаб, один акцент состояния",
+    "typography": "крупный grotesk",
+    "use": "аналитика, чтение",
+    "avoid": "Не полагаться на один цвет для значений",
+    "id": "S012",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Retro instrument",
+    "treatment": "Приборные шкалы, кнопки, стрелки и матовый корпус",
+    "typography": "mono для показаний + sans",
+    "use": "звук, физические утилиты",
+    "avoid": "Не скрывать точный ввод ради ручек",
+    "id": "S013",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Solar dashboard",
+    "treatment": "Светлый просторный фон, круглые диаграммы, солнечные пятна",
+    "typography": "humanist sans",
+    "use": "энергия, личные ресурсы",
+    "avoid": "Не заставлять всё выглядеть как графики",
+    "id": "S014",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Comic lab",
+    "treatment": "Плоские заливки, толстая обводка, речевые акценты",
+    "typography": "энергичный display + neutral body",
+    "use": "эксперименты, игры",
+    "avoid": "Читаемость важнее комиксного шрифта",
+    "id": "S015",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Glass islands",
+    "treatment": "Ограниченные прозрачные панели поверх спокойной сцены",
+    "typography": "нейтральный sans",
+    "use": "медиа, атмосферные утилиты",
+    "avoid": "Контраст и fallback без blur обязательны",
+    "id": "S016",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Desert geometry",
+    "treatment": "Песочный фон, глубокие тёмные акценты, геометрические ниши",
+    "typography": "поддерживающий нужные скрипты sans",
+    "use": "региональные ремесленные темы",
+    "avoid": "Не приравнивать культуру к случайному орнаменту",
+    "id": "S017",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Wooden workbench",
+    "treatment": "Фоновая рабочая поверхность, инструментальные лотки, предметы",
+    "typography": "технический sans",
+    "use": "сборка и мастерские",
+    "avoid": "Не запекать интерактивный текст в фон",
+    "id": "S018",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Ocean layers",
+    "treatment": "Глубинные синие слои, светлые контуры, спокойные волны",
+    "typography": "округлый sans",
+    "use": "дыхание, звук, водные темы",
+    "avoid": "Бесконечные волны останавливать вне экрана",
+    "id": "S019",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Sticker notebook",
+    "treatment": "Наклейки, вырезанные силуэты, свободные композиции с ясной сеткой",
+    "typography": "дружелюбный sans",
+    "use": "мемы, открытки, визуальные коллекции",
+    "avoid": "Не разбрасывать основные действия произвольно",
+    "id": "S020",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Precision monochrome",
+    "treatment": "Сетка модулей, тонкие контуры, точные числовые поля",
+    "typography": "mono + sans",
+    "use": "инженерные калькуляторы",
+    "avoid": "Иерархия не должна зависеть от толщины в один пиксель",
+    "id": "S021",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Terracotta courtyard",
+    "treatment": "Тёплые стены, зелёные акценты, арочные контейнеры",
+    "typography": "мягкий serif + sans",
+    "use": "дом, растения, распорядок",
+    "avoid": "Арки не должны обрезать контент",
+    "id": "S022",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Luminous prism",
+    "treatment": "Светлая основа, спектральные грани, цветовые образцы",
+    "typography": "geometric sans",
+    "use": "цвет, оптика, творчество",
+    "avoid": "Не использовать радугу как единственную семантику",
+    "id": "S023",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Dark velvet",
+    "treatment": "Глубокие матовые поверхности, выборочные металлические линии",
+    "typography": "элегантный serif + clean sans",
+    "use": "коллекционные и музыкальные продукты",
+    "avoid": "Не уменьшать текст ради премиального вида",
+    "id": "S024",
+    "category": "styles",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  }
+]

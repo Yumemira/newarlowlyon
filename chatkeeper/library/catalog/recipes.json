@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Field Atelier",
+    "profile": {
+      "style_id": "S004",
+      "layout_id": "L014",
+      "navigation_id": "N001",
+      "interaction_id": "I016",
+      "typography_family": "humanist-serif",
+      "shape_family": "paper-labels",
+      "motion_character": "measured-reveal",
+      "motion_ids": [
+        "M012",
+        "M018",
+        "M028"
+      ]
+    },
+    "rationale": "Наблюдения и метки на рисунке; детали раскрываются на месте.",
+    "status": "unimplemented-recipe"
+  },
+  {
+    "name": "Precision Bench",
+    "profile": {
+      "style_id": "S002",
+      "layout_id": "L001",
+      "navigation_id": "N009",
+      "interaction_id": "I004",
+      "typography_family": "technical-mono",
+      "shape_family": "cut-corners",
+      "motion_character": "magnetic-settle",
+      "motion_ids": [
+        "M012",
+        "M034",
+        "M003"
+      ]
+    },
+    "rationale": "Сцена с ограничениями и инспектором; движения объясняют допустимость действия.",
+    "status": "unimplemented-recipe"
+  },
+  {
+    "name": "Clay Workshop",
+    "profile": {
+      "style_id": "S003",
+      "layout_id": "L015",
+      "navigation_id": "N012",
+      "interaction_id": "I002",
+      "typography_family": "rounded-sans",
+      "shape_family": "soft-volumes",
+      "motion_character": "elastic-assembly",
+      "motion_ids": [
+        "M013",
+        "M019",
+        "M033"
+      ]
+    },
+    "rationale": "Сборка из деталей с тактильной обратной связью.",
+    "status": "unimplemented-recipe"
+  },
+  {
+    "name": "Museum Edit",
+    "profile": {
+      "style_id": "S009",
+      "layout_id": "L005",
+      "navigation_id": "N008",
+      "interaction_id": "I012",
+      "typography_family": "editorial-serif",
+      "shape_family": "framed-prints",
+      "motion_character": "quiet-continuity",
+      "motion_ids": [
+        "M003",
+        "M039",
+        "M004"
+      ]
+    },
+    "rationale": "Объектные коллекции и сравнение с сохраняющейся геометрией.",
+    "status": "unimplemented-recipe"
+  },
+  {
+    "name": "Transit Practice",
+    "profile": {
+      "style_id": "S010",
+      "layout_id": "L007",
+      "navigation_id": "N007",
+      "interaction_id": "I009",
+      "typography_family": "wayfinding-sans",
+      "shape_family": "nodes-and-lines",
+      "motion_character": "path-tracing",
+      "motion_ids": [
+        "M011",
+        "M032",
+        "M028"
+      ]
+    },
+    "rationale": "Маршруты с репетицией и постоянно видимой картой.",
+    "status": "unimplemented-recipe"
+  },
+  {
+    "name": "Instrument Room",
+    "profile": {
+      "style_id": "S013",
+      "layout_id": "L013",
+      "navigation_id": "N002",
+      "interaction_id": "I018",
+      "typography_family": "tabular-mono",
+      "shape_family": "physical-dials",
+      "motion_character": "damped-response",
+      "motion_ids": [
+        "M001",
+        "M010",
+        "M031"
+      ]
+    },
+    "rationale": "Измерения и точные настройки с предметными шкалами.",
+    "status": "unimplemented-recipe"
+  },
+  {
+    "name": "Prism Studio",
+    "profile": {
+      "style_id": "S023",
+      "layout_id": "L008",
+      "navigation_id": "N010",
+      "interaction_id": "I010",
+      "typography_family": "geometric-display",
+      "shape_family": "faceted-panels",
+      "motion_character": "layered-crossfade",
+      "motion_ids": [
+        "M035",
+        "M039",
+        "M040"
+      ]
+    },
+    "rationale": "Варианты цвета и сопоставимый результат без бесконечного свечения.",
+    "status": "unimplemented-recipe"
+  },
+  {
+    "name": "Comic Experiment",
+    "profile": {
+      "style_id": "S015",
+      "layout_id": "L009",
+      "navigation_id": "N005",
+      "interaction_id": "I005",
+      "typography_family": "bold-grotesk",
+      "shape_family": "outlined-panels",
+      "motion_character": "punchy-staged",
+      "motion_ids": [
+        "M018",
+        "M027",
+        "M037"
+      ]
+    },
+    "rationale": "Эксперименты с ветвлением и наглядными последствиями.",
+    "status": "unimplemented-recipe"
+  }
+]

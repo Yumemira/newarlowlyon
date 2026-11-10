@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Hero workspace",
+    "behavior": "Главный полезный объект занимает центр, инструменты вокруг",
+    "use": "редакторы",
+    "avoid": "Не превращать рабочее место в баннер",
+    "id": "L001",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Editorial sections",
+    "behavior": "Крупный заголовок, визуальная история, блоки разного масштаба",
+    "use": "обзор и обучение",
+    "avoid": "Основное действие видно без длинной прокрутки",
+    "id": "L002",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Bento overview",
+    "behavior": "Разноразмерные функциональные блоки с ясной иерархией",
+    "use": "обзор 4–6 разделов",
+    "avoid": "Не назначать случайные размеры одинаковым задачам",
+    "id": "L003",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Instrument panel",
+    "behavior": "Один главный показатель и органы управления вокруг",
+    "use": "измерения",
+    "avoid": "Не рисовать фиктивные датчики",
+    "id": "L004",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Object shelf",
+    "behavior": "Предметные коллекции с узнаваемыми обложками",
+    "use": "серии и коллекции",
+    "avoid": "Сохранять подписи и поиск",
+    "id": "L005",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Timeline stage",
+    "behavior": "Временная шкала и изменяемая сцена",
+    "use": "история и репетиции",
+    "avoid": "Управление паузой доступно",
+    "id": "L006",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Map and details",
+    "behavior": "Пространственный обзор и карточка выбранного узла",
+    "use": "схемы и маршруты",
+    "avoid": "Детали не закрывают всю карту постоянно",
+    "id": "L007",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Compare columns",
+    "behavior": "Общая шкала и синхронные варианты",
+    "use": "выбор и сравнение",
+    "avoid": "На телефоне понятное последовательное представление",
+    "id": "L008",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Task theatre",
+    "behavior": "Один шаг, интерактивный объект, результат действия",
+    "use": "короткие процессы",
+    "avoid": "Не прятать возможность выйти",
+    "id": "L009",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Workshop drawers",
+    "behavior": "Лотки инструментов вокруг сцены",
+    "use": "создание объектов",
+    "avoid": "Постоянное место основных инструментов",
+    "id": "L010",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Specimen cards",
+    "behavior": "Изображение, образец, свойства и контекст применения",
+    "use": "материалы и коллекции",
+    "avoid": "Данные не запекать в картинку",
+    "id": "L011",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Journey board",
+    "behavior": "Видимые этапы и текущий рабочий участок",
+    "use": "связанные практические процессы",
+    "avoid": "Прямой переход и состояние этапов",
+    "id": "L012",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Dial console",
+    "behavior": "Крупная ручка, числовая индикация и вспомогательные режимы",
+    "use": "звук и настройка",
+    "avoid": "Точный ввод обязателен",
+    "id": "L013",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Canvas notebook",
+    "behavior": "Рисунок или схема с прикреплёнными записями",
+    "use": "полевые заметки",
+    "avoid": "Альтернатива свободному размещению",
+    "id": "L014",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Scene plus inventory",
+    "behavior": "Интерактивная сцена и нижний лоток объектов",
+    "use": "сборка и игровые утилиты",
+    "avoid": "Не путать инвентарь с глобальными вкладками",
+    "id": "L015",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  },
+  {
+    "name": "Poster catalog",
+    "behavior": "Крупные обложки, краткие подписи и фильтры",
+    "use": "медиа и визуальные проекты",
+    "avoid": "Не скрывать сравнимые свойства",
+    "id": "L016",
+    "category": "layouts",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-019",
+      "SRC-041",
+      "SRC-050",
+      "SRC-052",
+      "SRC-058"
+    ]
+  }
+]

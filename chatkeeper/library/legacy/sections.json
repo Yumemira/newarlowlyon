@@ -1,0 +1,1052 @@
+[
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 9,
+    "heading": "Table of Contents"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 29,
+    "heading": "1. Visual Style Catalog"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 33,
+    "heading": "1.1 Semi-Realistic Stylized (\"Premium Mobile\")"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 41,
+    "heading": "1.2 Clean Vector / Esports"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 49,
+    "heading": "1.3 Neon-Tech / Cyber Glow (trending 2024–2025)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 58,
+    "heading": "1.4 Glassmorphism / Liquid Glass (iOS 2025 apex)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 66,
+    "heading": "1.5 Crystal & Glossy Candy"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 73,
+    "heading": "1.6 Cute Cartoon Stylized"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 79,
+    "heading": "1.7 Stylized Low-Poly 3D"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 87,
+    "heading": "2. Color Palettes & Hex Codes"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 91,
+    "heading": "2.1 Dark Neon Palettes"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 143,
+    "heading": "2.2 Gold / Premium Palettes"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 174,
+    "heading": "2.3 Space / Sci-Fi Palettes"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 206,
+    "heading": "2.4 Sports Palettes"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 237,
+    "heading": "2.5 Cyberpunk Neon (raw hex set)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 248,
+    "heading": "2.6 Duolingo Gamification Color Meanings"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 257,
+    "heading": "3. Typography & Fonts"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 259,
+    "heading": "3.1 Font Categories for Game UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 271,
+    "heading": "3.2 Size Hierarchy (mobile game UI)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 284,
+    "heading": "3.3 Score Counter Pattern"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 292,
+    "heading": "4. Screen-Type Design Patterns"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 294,
+    "heading": "4.1 Loading Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 322,
+    "heading": "4.2 Onboarding / Tutorial Flow"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 354,
+    "heading": "4.3 Main Lobby / Menu Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 382,
+    "heading": "4.4 HUD (In-Game)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 407,
+    "heading": "4.5 Leaderboard / Score Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 435,
+    "heading": "4.6 Achievement / Badge Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 465,
+    "heading": "4.7 Shop / In-App Purchase Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 495,
+    "heading": "4.8 Game Result Screen (Win/Lose)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 528,
+    "heading": "5. Animation Patterns & Timing"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 530,
+    "heading": "5.1 Universal Animation Timing Guidelines"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 548,
+    "heading": "5.2 Rule: Perception Sweet Spot"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 555,
+    "heading": "5.3 Particle Effect Recipes"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 583,
+    "heading": "5.4 Glow Effect Patterns"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 627,
+    "heading": "5.5 Shimmer/Shine Sweep"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 646,
+    "heading": "5.6 Spring Bounce for Achievements/Badges"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 662,
+    "heading": "6. Flutter Implementation Recipes"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 664,
+    "heading": "6.1 Glassmorphism Card (Game Menu Panel)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 705,
+    "heading": "6.2 Neon Gradient Text (Score Display)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 754,
+    "heading": "6.3 HUD Health Bar with Animated Depletion"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 807,
+    "heading": "6.4 Dark Radial Gradient Background (Lobby / Result)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 842,
+    "heading": "6.5 Achievement Badge with Rarity Glow"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 890,
+    "heading": "6.6 Animated Score Counter"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 928,
+    "heading": "6.7 Button Pulse Animation (Main CTA)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 944,
+    "heading": "6.8 Victory Screen Orchestrated Animation"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 990,
+    "heading": "7. Top Game UI References"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 992,
+    "heading": "7.1 Clash Royale (Supercell)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1002,
+    "heading": "7.2 Duolingo"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1013,
+    "heading": "7.3 Chess.com"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1022,
+    "heading": "7.4 Wordle (NYT)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1030,
+    "heading": "7.5 Pattern Summary: What Makes These UIs Distinctive"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1043,
+    "heading": "8. Layout & Ergonomics"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1045,
+    "heading": "8.1 Thumb Reachability Zones (iOS portrait)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1065,
+    "heading": "8.2 iOS Safe Areas"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1072,
+    "heading": "8.3 Bottom Navigation (game hub)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1081,
+    "heading": "8.4 Grid Systems"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1092,
+    "heading": "9. iOS 2025 Liquid Glass Trend"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1096,
+    "heading": "9.1 Core Properties"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1102,
+    "heading": "9.2 Visual Specification"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1109,
+    "heading": "9.3 Flutter Implementation (Liquid Glass style)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1141,
+    "heading": "9.4 Accessibility Warning"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1149,
+    "heading": "10. ADS Framework Integration Cheatsheet"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1153,
+    "heading": "10.1 Color Mapping Strategy"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1177,
+    "heading": "10.2 LayoutStyle Conventions for Game UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1192,
+    "heading": "10.3 flutter_animate Game Patterns"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1231,
+    "heading": "10.4 CustomBounceEffect for Game Buttons"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1242,
+    "heading": "10.5 Package Recommendations for Game UI in Flutter"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1260,
+    "heading": "Quick Reference: Common Game Screen Color Setups"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1262,
+    "heading": "Dark Neon Game (generic)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1267,
+    "heading": "Fantasy RPG"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1272,
+    "heading": "Sci-Fi/Space"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1277,
+    "heading": "Sports/Competitive"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1282,
+    "heading": "Casual/Candy"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1313,
+    "heading": "11. Aesthetic Subculture Styles (2024–2025)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1317,
+    "heading": "11.1 Cozy / Cottagecore"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1357,
+    "heading": "11.2 Dark Academia"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1396,
+    "heading": "11.3 Y2K / Retro-Futurism"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1435,
+    "heading": "11.4 Chibi / Anime Mobile Game Style"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1477,
+    "heading": "11.5 Pixel Art / Retro 8-Bit Style"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1514,
+    "heading": "11.6 Isometric / Voxel Style"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1553,
+    "heading": "12. Award-Winning Game UI Analysis (2023–2024)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1555,
+    "heading": "12.1 Apple Design Awards 2024 — Games"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1581,
+    "heading": "12.2 Apple Design Awards 2023 — Games"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1600,
+    "heading": "12.3 Google Play Best Games 2024"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1619,
+    "heading": "12.4 BAFTA Games Awards 2024"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1632,
+    "heading": "13. Specific Screen Deep Dives"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1634,
+    "heading": "13.1 Character / Hero Selection Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1691,
+    "heading": "13.2 World Map / Level Select Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1728,
+    "heading": "13.3 Daily Reward / Login Bonus Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1768,
+    "heading": "13.4 Fortune Wheel / Spin to Win Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1803,
+    "heading": "13.5 Chest Opening / Loot Reveal Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1846,
+    "heading": "13.6 Guild War / PvP Hub Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1878,
+    "heading": "13.7 Season / Chapter Select Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1907,
+    "heading": "14. Casual & Hypercasual UI Design Patterns"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1909,
+    "heading": "14.1 Core Hypercasual Principles"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1931,
+    "heading": "14.2 Casual Game UI Patterns"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 1976,
+    "heading": "14.3 Puzzle Game Minimal UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2013,
+    "heading": "15. App Store / Play Store Marketing UI Patterns"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2015,
+    "heading": "15.1 App Icon Design Rules (2024–2025)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2038,
+    "heading": "15.2 Screenshot Design Patterns"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2065,
+    "heading": "15.3 Feature Graphic (Google Play banner)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2100,
+    "heading": "16. Game-Specific UI Components — Deep Reference"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2106,
+    "heading": "16.1 Health / Energy / XP Bars"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2178,
+    "heading": "16.2 Currency Displays"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2251,
+    "heading": "16.3 Player Avatar & Profile Card"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2319,
+    "heading": "16.4 Inventory / Item Grid"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2357,
+    "heading": "16.5 Card Deck UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2409,
+    "heading": "16.6 Skill Tree / Talent UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2459,
+    "heading": "16.7 World Map / Level Select Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2506,
+    "heading": "16.8 Quest / Mission UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2549,
+    "heading": "16.9 Notification Badges / Bubble Indicators"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2604,
+    "heading": "16.10 Timer Countdown UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2657,
+    "heading": "17. Game Monetization UI (Shop / IAP) — Deep Reference"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2663,
+    "heading": "17.1 Shop Screen Architecture"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2716,
+    "heading": "17.2 Bundle Offer Cards"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2739,
+    "heading": "17.3 Badge Design System (Shop)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2754,
+    "heading": "17.4 Battle Pass UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2815,
+    "heading": "17.5 Subscription / VIP Pass UI (Soft Paywall)"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2857,
+    "heading": "17.6 Chest / Loot Box Opening UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2900,
+    "heading": "17.7 Price Anchoring & Psychological Pricing"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2920,
+    "heading": "18. Social & Competitive UI — Deep Reference"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2926,
+    "heading": "18.1 Leaderboard Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 2989,
+    "heading": "18.2 PvP Matchmaking Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3041,
+    "heading": "18.3 Tournament Bracket UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3092,
+    "heading": "18.4 Clan / Guild UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3117,
+    "heading": "18.5 Versus / Battle Start Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3147,
+    "heading": "18.6 End-of-Season Reward Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3175,
+    "heading": "18.7 Friend Invite Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3206,
+    "heading": "19. Game Onboarding Patterns — Deep Reference"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3212,
+    "heading": "19.1 FTUE (First-Time User Experience) Principles"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3238,
+    "heading": "19.2 Spotlight / Coach Mark Tutorial Overlay"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3311,
+    "heading": "19.3 Character / Avatar Selection Screen"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3359,
+    "heading": "19.4 Difficulty Selection UI"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3384,
+    "heading": "19.5 Progressive Disclosure Pattern"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3406,
+    "heading": "20. Rarity Color System Reference"
+  },
+  {
+    "file": "GAME_UI_DESIGN_REFERENCE.md",
+    "line": 3458,
+    "heading": "21. Flutter Packages for Game UI (Extended Reference)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 8,
+    "heading": "Table of Contents"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 24,
+    "heading": "1. Global UI Trends & Principles"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 26,
+    "heading": "2024–2025 Dominant Trends"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 38,
+    "heading": "Universal 7 UI Principles (Pixune framework)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 48,
+    "heading": "Platform Notes (iOS vs Android)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 56,
+    "heading": "2. Category 1 — Puzzle & Casual Games"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 60,
+    "heading": "2.1 Candy Crush Saga (King)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 109,
+    "heading": "2.2 Royal Match (Dream Games)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 153,
+    "heading": "2.3 Homescapes / Gardenscapes (Playrix)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 190,
+    "heading": "2.4 Merge Mansion (Metacore)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 222,
+    "heading": "2.5 Coin Master (Moon Active)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 265,
+    "heading": "2.6 Best Fiends (Seriously)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 292,
+    "heading": "2.7 Angry Birds (Rovio)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 330,
+    "heading": "2.8 Cut the Rope (ZeptoLab)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 357,
+    "heading": "2.9 Monument Valley (Ustwo Games)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 399,
+    "heading": "3. Category 2 — Strategy & RPG Games"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 403,
+    "heading": "3.1 Clash of Clans (Supercell)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 448,
+    "heading": "3.2 Clash Royale (Supercell)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 498,
+    "heading": "3.3 Brawl Stars (Supercell)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 540,
+    "heading": "3.4 Genshin Impact Mobile (HoYoverse)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 589,
+    "heading": "3.5 Honkai: Star Rail (HoYoverse) — Apple Design Award Finalist 2024"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 613,
+    "heading": "3.6 Raid: Shadow Legends (Plarium)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 641,
+    "heading": "3.7 AFK Arena (Lilith Games)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 674,
+    "heading": "3.8 Rise of Kingdoms (Lilith Games)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 689,
+    "heading": "3.9 Diablo Immortal (Blizzard/NetEase)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 713,
+    "heading": "4. Category 3 — Sports & Trivia Games"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 717,
+    "heading": "4.1 8 Ball Pool (Miniclip)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 749,
+    "heading": "4.2 Golf Clash (Playdemic/EA)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 786,
+    "heading": "4.3 FIFA Mobile (EA)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 815,
+    "heading": "4.4 NBA 2K Mobile (2K Sports)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 839,
+    "heading": "4.5 Kahoot! (Kahoot)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 874,
+    "heading": "4.6 Trivia Crack (Etermax)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 893,
+    "heading": "5. Cross-Game UI Pattern Library"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 895,
+    "heading": "5.1 Level Select Patterns"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 904,
+    "heading": "5.2 Victory/Defeat Screen Patterns"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 915,
+    "heading": "5.3 HUD Placement Convention"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 930,
+    "heading": "5.4 Shop UI Pattern"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 940,
+    "heading": "5.5 Chest/Loot Opening Pattern (Clash Royale influenced)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 951,
+    "heading": "6. Color Psychology in Mobile Games"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 953,
+    "heading": "Genre → Color Palette Mapping"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 965,
+    "heading": "Warm Colors (Orange/Red/Yellow)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 971,
+    "heading": "Cool Colors (Blue/Purple/Green)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 976,
+    "heading": "Contrast Rules for Game UI"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 984,
+    "heading": "7. Monetization UI Patterns"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 986,
+    "heading": "7.1 Battle Pass (Season Pass)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 993,
+    "heading": "7.2 Gacha / Loot Box"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1000,
+    "heading": "7.3 Limited-Time Events"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1006,
+    "heading": "7.4 Energy/Lives System"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1012,
+    "heading": "7.5 \"Almost Won\" Conversion"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1017,
+    "heading": "7.6 First Purchase Flow"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1024,
+    "heading": "8. Onboarding & FTUE Patterns"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1026,
+    "heading": "8.1 FTUE Timeline"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1032,
+    "heading": "8.2 Best Practice Framework"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1045,
+    "heading": "8.3 Real Game Examples"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1069,
+    "heading": "8.4 FTUE Anti-Patterns (Avoid)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1078,
+    "heading": "9. Animation Signatures"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1080,
+    "heading": "9.1 By Genre"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1090,
+    "heading": "9.2 Universal Feedback Animations"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1102,
+    "heading": "9.3 Page-Level Animation Standards (from ADS Framework)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1113,
+    "heading": "10. Flutter Implementation Notes"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1115,
+    "heading": "10.1 Key Packages for Game-Like UI"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1130,
+    "heading": "10.2 Game Button Pattern"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1156,
+    "heading": "10.3 Coin Counter Animation"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1170,
+    "heading": "10.4 Celebration/Victory Screen"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1188,
+    "heading": "10.5 Star Rating Pop-In"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1202,
+    "heading": "10.6 Level Select Map Node"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1229,
+    "heading": "10.7 Chest Opening Sequence"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1249,
+    "heading": "10.8 Slot Machine / Spin Wheel"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1265,
+    "heading": "11. Apple Design Award Winners — Games"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1267,
+    "heading": "2024 Winners"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1278,
+    "heading": "2024 Finalists (Games)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1286,
+    "heading": "2023 Winners (Games)"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1295,
+    "heading": "Design Lessons from Award Winners"
+  },
+  {
+    "file": "MOBILE_GAME_UI_PATTERNS.md",
+    "line": 1305,
+    "heading": "Sources"
+  }
+]

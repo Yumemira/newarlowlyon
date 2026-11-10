@@ -1,0 +1,86 @@
+[
+  {
+    "source": ".specify/docs/GAME_UI_DESIGN_REFERENCE.md",
+    "copy": "legacy/GAME_UI_DESIGN_REFERENCE.md",
+    "sha256": "532537beab5aa317c847d9852547cb0cf0daa577f96d8270b1e1615b8da3a0c1",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/MOBILE_GAME_UI_PATTERNS.md",
+    "copy": "legacy/MOBILE_GAME_UI_PATTERNS.md",
+    "sha256": "7bc2ff250daedc189c85a30348636778998b2abb7e67b3c3b610d15756103367",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/codebase/CINEMATIC_ANIMATION_CATALOG.md",
+    "copy": "legacy/CINEMATIC_ANIMATION_CATALOG.md",
+    "sha256": "ea6db780a62500a7d3578843b9382a00833a9530282f1be84f904bc5e634c5d3",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/codebase/CINEMATIC_MOTION_IMPLEMENTATION_TEMPLATE.md",
+    "copy": "legacy/CINEMATIC_MOTION_IMPLEMENTATION_TEMPLATE.md",
+    "sha256": "e82116ec46c378ed69fb570b1d3d6dd5d82b5b95bfc9a18cb6c2c51bf4c6255d",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/GAME_LAYERED_DESIGN_EXAMPLES_500.md",
+    "copy": "legacy/GAME_LAYERED_DESIGN_EXAMPLES_500.md",
+    "sha256": "405d3a181281f497c306a2b078f67d824aee5e556c28756b2dd33612b7410115",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/codebase/BOOST_ANIMATION_PATTERNS.md",
+    "copy": "legacy/BOOST_ANIMATION_PATTERNS.md",
+    "sha256": "447139c35a5665d416b967f81c8f9201da6019207d97cbebc4d3b0142cc80a9e",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/codebase/design_guide/ANIMATIONS_GUIDE.md",
+    "copy": "legacy/design_guide/ANIMATIONS_GUIDE.md",
+    "sha256": "c9d41a0e17deacfbdfbce292314d1fe685f1752575c2489087a37d07a8e4519f",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/codebase/design_guide/DESIGN_STYLES.md",
+    "copy": "legacy/design_guide/DESIGN_STYLES.md",
+    "sha256": "5f43feeaeb0eb0f4307a17f271041e24a10eaa6409acc4de4ac3f51cb2d74b69",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/codebase/design_guide/KISS_AND_PRINCIPLES.md",
+    "copy": "legacy/design_guide/KISS_AND_PRINCIPLES.md",
+    "sha256": "9322f6a6eb159070a163115bae69b8b7f2140c57d29a8a2d137f37efe896ab5e",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/codebase/design_guide/NAVIGATION_PATTERNS.md",
+    "copy": "legacy/design_guide/NAVIGATION_PATTERNS.md",
+    "sha256": "c3b20950755bae008229e85212d1f215e4e6b1d56eb58619cbea4e3b4ea33a36",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/codebase/design_guide/SCREEN_PATTERNS.md",
+    "copy": "legacy/design_guide/SCREEN_PATTERNS.md",
+    "sha256": "23ad40804df4c612f87703e061d4aeddee6f2e111e844837c746123dcb70fc19",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/codebase/design_guide/SPECIAL_PATTERNS.md",
+    "copy": "legacy/design_guide/SPECIAL_PATTERNS.md",
+    "sha256": "59e4883611195e743ee3876086c467f6dd1799858ecbdbc500e96f8daabb8172",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/codebase/design_guide/UI_COMPONENTS.md",
+    "copy": "legacy/design_guide/UI_COMPONENTS.md",
+    "sha256": "33c63739f83debccc3c0c58bf42951263bed37445c15808e12a9723c87e6c362",
+    "status": "legacy-reference-not-revalidated"
+  },
+  {
+    "source": ".specify/docs/codebase/design_guide/VISUAL_STYLE.md",
+    "copy": "legacy/design_guide/VISUAL_STYLE.md",
+    "sha256": "87be33aef6353b628004b302d3adbe8ef13e6a4ba077583bcf602197fcd6986b",
+    "status": "legacy-reference-not-revalidated"
+  }
+]

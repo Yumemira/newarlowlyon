@@ -37,6 +37,11 @@ env/
 # Local application checkouts belong in projects/ and stay outside the toolkit repository.
 /projects/
 
+# Keep project coordination and design usage local while sharing the design library.
+/chatkeeper/*
+!/chatkeeper/library/
+/chatkeeper/library/usage.json
+
 # Local settings and generated files
 *.log
 .env

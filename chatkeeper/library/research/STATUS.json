@@ -1,0 +1,35 @@
+{
+  "accepted_sources": 300,
+  "unique_domains": 21,
+  "source_kinds": {
+    "primary-documentation": 11,
+    "author-article-or-demo": 271,
+    "forum-opinion": 18
+  },
+  "domains": {
+    "docs.flutter.dev": 2,
+    "www.smashingmagazine.com": 74,
+    "urielcastillo.com": 1,
+    "www.nngroup.com": 60,
+    "tympanus.net": 35,
+    "www.joshwcomeau.com": 25,
+    "emilkowal.ski": 4,
+    "design.google": 8,
+    "blog.duolingo.com": 1,
+    "stripe.com": 2,
+    "v10.carbondesignsystem.com": 1,
+    "fluent2.microsoft.design": 1,
+    "atlassian.design": 2,
+    "spectrum.adobe.com": 1,
+    "blog.maximeheckel.com": 10,
+    "developer.mozilla.org": 2,
+    "web.dev": 1,
+    "www.carbondesignsystem.com": 1,
+    "ishadeed.com": 29,
+    "www.sarasoueidan.com": 22,
+    "www.reddit.com": 18
+  },
+  "automatically_fetched_candidates": 864,
+  "review_scope": "Text excerpts screened; not full interactive demo validation",
+  "legacy_sources_counted_in_300": false
+}

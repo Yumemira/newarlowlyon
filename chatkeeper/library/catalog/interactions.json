@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Before-after lens",
+    "behavior": "Ползунок открывает исходный и новый слой одного объекта",
+    "use": "сравнение изменений",
+    "avoid": "Добавить числовое/текстовое объяснение разницы",
+    "id": "I001",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Snap assembly",
+    "behavior": "Детали пристыковываются к допустимым точкам",
+    "use": "сборка схем и моделей",
+    "avoid": "Подсвечивать валидную цель до отпускания",
+    "id": "I002",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Live parameter scene",
+    "behavior": "Ручка или короткий ввод сразу меняет объект и расчёт",
+    "use": "калькуляторы и настройка",
+    "avoid": "Показывать единицы, границы и точный ввод",
+    "id": "I003",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Constraint sandbox",
+    "behavior": "Пользователь пробует действие и видит причины нарушения",
+    "use": "планировка и логистика",
+    "avoid": "Объяснять столкновение, не только красить красным",
+    "id": "I004",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Decision branches",
+    "behavior": "Выбор открывает видимые ветви последствий",
+    "use": "планирование вариантов",
+    "avoid": "Не изображать недоказанный прогноз как факт",
+    "id": "I005",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Timeline scrub",
+    "behavior": "Пользователь перематывает процесс и видит состояние",
+    "use": "история изменений и симуляции",
+    "avoid": "Разделить реальные события и симуляцию",
+    "id": "I006",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Layer peel",
+    "behavior": "Последовательное раскрытие слоёв предмета",
+    "use": "обучение устройству и диагностика",
+    "avoid": "Оставить быстрый список слоёв",
+    "id": "I007",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Sound comparison",
+    "behavior": "Переключение эталона и записи с синхронной шкалой",
+    "use": "аудиоутилиты",
+    "avoid": "Уровень громкости под контролем, без фиктивного диагноза",
+    "id": "I008",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Route rehearsal",
+    "behavior": "Пошаговая репетиция маршрута с пояснением препятствий",
+    "use": "перенос и путешествия",
+    "avoid": "Явные ограничения модели",
+    "id": "I009",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Palette mixing",
+    "behavior": "Смешивание образцов с живой визуализацией результата",
+    "use": "цвет и творчество",
+    "avoid": "Указать различие экрана и реального материала",
+    "id": "I010",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Spatial sorting",
+    "behavior": "Размещение сущностей в зонах с полезной семантикой",
+    "use": "планирование и организация",
+    "avoid": "Дать альтернативу перетаскиванию",
+    "id": "I011",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Compare tray",
+    "behavior": "Несколько вариантов помещаются в лоток сравнения",
+    "use": "выбор продукта или решения",
+    "avoid": "Показывать сопоставимые измерения",
+    "id": "I012",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Reveal by action",
+    "behavior": "Результат раскрывается после реального завершения действия",
+    "use": "обучение и практика",
+    "avoid": "Не добавлять задержку поверх готового результата",
+    "id": "I013",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Progress world",
+    "behavior": "Полезные действия меняют осмысленную сцену прогресса",
+    "use": "фокус и обучение",
+    "avoid": "Мир не должен подменять саму полезную функцию",
+    "id": "I014",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Interactive recipe",
+    "behavior": "Шаг меняет состояние объекта и показывает следующий инструмент",
+    "use": "ремесло и готовка",
+    "avoid": "Пропуск и возврат не теряют введённое",
+    "id": "I015",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Object tagging",
+    "behavior": "Метки ставятся на изображение или схему",
+    "use": "дом и оборудование",
+    "avoid": "Предусмотреть список меток для доступности",
+    "id": "I016",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Scenario replay",
+    "behavior": "Воспроизведение выполненных действий с паузой",
+    "use": "обучение и разбор игр",
+    "avoid": "Хранить события, а не сочинять историю",
+    "id": "I017",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Tactile dial",
+    "behavior": "Дискретная шкала с магнитными делениями и точным значением",
+    "use": "настройка параметра",
+    "avoid": "Поддержать клавиатуру и screen reader",
+    "id": "I018",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Visual packing",
+    "behavior": "Предметы располагаются в ограниченном пространстве",
+    "use": "сборы и транспорт",
+    "avoid": "Расчёт должен соответствовать модели габаритов",
+    "id": "I019",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  },
+  {
+    "name": "Pattern composer",
+    "behavior": "Пользователь собирает повторяемый ритм или узор из блоков",
+    "use": "музыка и ремесло",
+    "avoid": "Результат можно воспроизвести и сохранить",
+    "id": "I020",
+    "category": "interactions",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-002",
+      "SRC-003",
+      "SRC-007",
+      "SRC-010",
+      "SRC-027"
+    ]
+  }
+]

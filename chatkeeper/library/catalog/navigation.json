@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Anchored tabs",
+    "behavior": "Постоянные подписанные вкладки, меняется только активный индикатор",
+    "use": "4–5 равноправных разделов",
+    "avoid": "Сохранять состояние вкладок",
+    "id": "N001",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  },
+  {
+    "name": "Floating dock",
+    "behavior": "Компактная плавающая панель с явными подписями",
+    "use": "визуальная сцена с несколькими разделами",
+    "avoid": "Не перекрывать контент и системные жесты",
+    "id": "N002",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  },
+  {
+    "name": "Workspace plus drawers",
+    "behavior": "Главная сцена и открываемые лотки инструментов; разделы доступны явно",
+    "use": "пространственные редакторы",
+    "avoid": "Инструменты не подменяют глобальную навигацию",
+    "id": "N003",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  },
+  {
+    "name": "Chapter rail",
+    "behavior": "Вертикальная или горизонтальная шкала крупных глав",
+    "use": "последовательный процесс",
+    "avoid": "Разрешить прямой переход к доступным этапам",
+    "id": "N004",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  },
+  {
+    "name": "Hub and rooms",
+    "behavior": "Обзорный хаб с 4–6 функциональными зонами",
+    "use": "предметная игровая метафора",
+    "avoid": "Добавить подписанный быстрый доступ",
+    "id": "N005",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  },
+  {
+    "name": "Segmented workspace",
+    "behavior": "Режимы внутри раздела переключаются сегментами",
+    "use": "связанные представления данных",
+    "avoid": "Не заменять глобальные разделы одним длинным сегментом",
+    "id": "N006",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  },
+  {
+    "name": "Map navigator",
+    "behavior": "Функциональные зоны на схеме и компактный список переходов",
+    "use": "маршруты и пространственные продукты",
+    "avoid": "Не требовать анимацию всей карты для каждого перехода",
+    "id": "N007",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  },
+  {
+    "name": "Collection shelf",
+    "behavior": "Полки проектов и отдельные постоянные разделы действий",
+    "use": "коллекции и серии",
+    "avoid": "Полка проектов не должна скрывать остальные функции",
+    "id": "N008",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  },
+  {
+    "name": "Canvas and inspector",
+    "behavior": "Рабочая сцена и панель свойств выбранного объекта",
+    "use": "создание и моделирование",
+    "avoid": "На телефоне инспектор превращается в доступный sheet",
+    "id": "N009",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  },
+  {
+    "name": "Split focus",
+    "behavior": "На широком экране список/сцена и детали; на узком последовательный переход",
+    "use": "сравнение и каталог",
+    "avoid": "Сохранять выбор и back stack",
+    "id": "N010",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  },
+  {
+    "name": "Gesture chapters",
+    "behavior": "Свайп между подписанными разделами плюс видимые кнопки",
+    "use": "контентные приложения",
+    "avoid": "Не делать свайп единственным способом",
+    "id": "N011",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  },
+  {
+    "name": "Tool belt",
+    "behavior": "Основные вкладки плюс отдельный пояс предметных действий",
+    "use": "практические мастерские",
+    "avoid": "Ясно различать переход и действие",
+    "id": "N012",
+    "category": "navigation",
+    "status": "design-recipe-not-runtime-validated",
+    "provenance": "original-synthesis; related reading is not a claim of exact derivation",
+    "related_reading": [
+      "SRC-020",
+      "SRC-022",
+      "SRC-034",
+      "SRC-043",
+      "SRC-065"
+    ]
+  }
+]
