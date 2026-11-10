@@ -34,8 +34,10 @@ env/
 .DS_Store
 *.tmp
 
-# Project specific
+# Local application checkouts belong in projects/ and stay outside the toolkit repository.
 /projects/
+
+# Local settings and generated files
 *.log
 .env
 .env.local
