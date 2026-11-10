@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clean Game Assets"
+  short_description: "Чистые спрайты и анимации без грязи по краям"
+  default_prompt: "Используй $clean-game-assets для игровых ассетов с чистой прозрачностью, ровными привязками кадров и визуальной проверкой."

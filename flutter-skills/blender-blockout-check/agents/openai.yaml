@@ -1,0 +1,3 @@
+interface:
+  display_name: "Проверка блокинга"
+  short_description: "Проверка готовой сцены Blender и сходства формы"

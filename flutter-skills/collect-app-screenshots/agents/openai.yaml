@@ -1,0 +1,3 @@
+interface:
+  display_name: "Сбор скриншотов приложения"
+  short_description: "Запуск Android/iOS и сбор скриншотов экранов"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gameplay Prototyping"
+  short_description: "Прототипы механик, баланс и отзывчивость"
+  default_prompt: "Используй $gameplay-prototyping для проверки и настройки основной игровой механики."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Forge2D Game Physics"
+  short_description: "Физика, контакты и симуляция на Forge2D"
+  default_prompt: "Используй $forge2d-game-physics для реализации физической механики игры."

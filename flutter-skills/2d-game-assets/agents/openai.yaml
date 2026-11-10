@@ -1,0 +1,4 @@
+interface:
+  display_name: "2D Game Assets"
+  short_description: "Спрайты, анимации и проверка игровых атласов"
+  default_prompt: "Используй $2d-game-assets для подготовки и проверки игровых ресурсов."

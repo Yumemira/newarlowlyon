@@ -1,0 +1,6 @@
+interface:
+  display_name: "2D Character Animation"
+  short_description: "Build reference-driven 2D character animations"
+  default_prompt: "Use $pixel-character-animation to create a character and a pose-faithful, perspective-aware animation."
+policy:
+  allow_implicit_invocation: true

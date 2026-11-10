@@ -1,0 +1,3 @@
+interface:
+  display_name: "Разбор формы"
+  short_description: "Разбор изображения на объёмы и конструктивные связи"

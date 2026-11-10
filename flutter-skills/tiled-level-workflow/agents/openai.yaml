@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tiled Level Workflow"
+  short_description: "Карты Tiled и интеграция игровых уровней"
+  default_prompt: "Используй $tiled-level-workflow для подготовки и подключения карты уровня."

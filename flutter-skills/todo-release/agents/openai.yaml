@@ -1,0 +1,4 @@
+interface:
+  display_name: "todo-release"
+  short_description: "Исследует и реализует все TODO проекта"
+  default_prompt: "Используй $todo-release: найди и качественно реализуй все TODO в указанном проекте с обязательным веб-исследованием и итоговым аудитом."

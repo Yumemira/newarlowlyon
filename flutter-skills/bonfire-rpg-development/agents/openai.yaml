@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bonfire RPG Development"
+  short_description: "Мир, персонажи и боевые механики Bonfire"
+  default_prompt: "Используй $bonfire-rpg-development для разработки RPG-механики в текущем проекте."

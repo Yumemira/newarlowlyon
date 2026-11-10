@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter Game Quality"
+  short_description: "Тестирование и профилирование Flutter-игр"
+  default_prompt: "Используй $flutter-game-quality для проверки игровых сценариев и производительности."

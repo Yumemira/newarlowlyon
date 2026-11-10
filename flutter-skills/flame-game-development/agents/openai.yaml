@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flame Game Development"
+  short_description: "Сцены, управление и жизненный цикл игр Flame"
+  default_prompt: "Используй $flame-game-development для разработки игровой сцены в текущем проекте."

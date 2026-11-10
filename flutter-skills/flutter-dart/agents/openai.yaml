@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter & Dart"
+  short_description: "Generate idiomatic, null-safe Flutter and Dart code"
+  default_prompt: "Use $flutter-dart to implement or review Flutter/Dart code with project conventions, tests, and performance safeguards."

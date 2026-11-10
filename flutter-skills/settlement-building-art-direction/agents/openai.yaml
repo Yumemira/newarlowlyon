@@ -1,0 +1,4 @@
+interface:
+  display_name: "Единый игровой вид зданий"
+  short_description: "Общая камера и согласованные ракурсы построек"
+  default_prompt: "Используй $settlement-building-art-direction: проверь общий вид сверху-сбоку и сохранение конструкции зданий между ракурсами."

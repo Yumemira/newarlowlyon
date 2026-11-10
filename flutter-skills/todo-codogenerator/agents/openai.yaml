@@ -1,0 +1,4 @@
+interface:
+  display_name: "TODO-codogenerator"
+  short_description: "Планирует реализацию прямо в каркасе кода"
+  default_prompt: "Используй $todo-codogenerator и преврати мой план функции в каркас кода только с конкретными TODO-комментариями, без реализации."
